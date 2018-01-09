@@ -1,7 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="724f3888-a5d2-4e34-8d72-9a4cc3370e0e" name="Default" comment="" />
+    <list default="true" id="724f3888-a5d2-4e34-8d72-9a4cc3370e0e" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/hermac/asesoramiento_tpl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/hermac/fonts/Candara.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/hermac/fonts/Candara.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/hermac/fonts/Candara.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/hermac/fonts/Candara.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/hermac/fonts/Candara.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/hermac/fonts/MyriadPro-Regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/hermac/fonts/MyriadPro-Regular.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/hermac/fonts/MyriadPro-Regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/hermac/fonts/MyriadPro-Regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/hermac/fonts/MyriadPro-Regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/hermac/fonts/MyriadPro-Regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/hermac/images/logo-hermac.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/hermac/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/hermac/medios_equipos_tpl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/hermac/productos_tpl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/hermac/servicios_tpl.php" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/404.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/archive.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/author-bio.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/comments.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/content-link.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/content-none.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/content-page.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/content-search.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/content.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/css/editor-style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/css/ie.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/css/ie7.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/footer.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/functions.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/COPYING.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/Genericons.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/Genericons.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/Genericons.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/Genericons.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/LICENSE.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/genericons.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/header.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/image.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/inc/back-compat.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/inc/custom-header.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/inc/customizer.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/inc/template-tags.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/color-scheme-control.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/customize-preview.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/functions.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/html5.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/keyboard-image-navigation.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/skip-link-focus-fix.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/page.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/readme.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/rtl.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/screenshot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/search.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/sidebar.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/single.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/404.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/README.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/archive.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/colors-dark.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/editor-style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/ie8.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/ie9.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/images/coffee.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/images/espresso.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/images/header.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/images/sandwich.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/images/svg-icons.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/customize-controls.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/customize-preview.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/global.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/html5.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/navigation.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/comments.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/footer.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/front-page.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/header.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/back-compat.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/color-patterns.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/custom-header.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/customizer.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/icon-functions.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/template-functions.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/template-tags.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/page.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/rtl.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/screenshot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/search.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/searchform.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/sidebar.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/single.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/header/header-image.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/header/site-branding.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/navigation/navigation-top.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/page/content-front-page-panels.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/page/content-front-page.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/page/content-page.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-audio.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-excerpt.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-gallery.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-image.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-none.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-video.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/404.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/archive.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/comments.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/editor-style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/ie.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/ie7.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/ie8.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/footer.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/functions.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/COPYING.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/Genericons.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/Genericons.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/Genericons.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/Genericons.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/LICENSE.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/genericons.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/header.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/image.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/inc/back-compat.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/inc/customizer.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/inc/template-tags.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/color-scheme-control.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/customize-preview.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/functions.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/html5.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/keyboard-image-navigation.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/skip-link-focus-fix.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/page.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/readme.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/rtl.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/screenshot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/search.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/searchform.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/sidebar-content-bottom.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/sidebar.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/single.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/biography.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content-none.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content-page.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content-search.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content-single.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content.php" afterPath="" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,12 +174,92 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="wp-config.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-config.php">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index-back.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/index-back.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+            <state relative-caret-position="0">
+              <caret line="205" column="63" lean-forward="false" selection-start-line="205" selection-start-column="40" selection-end-line="205" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="93" column="30" lean-forward="true" selection-start-line="93" selection-start-column="30" selection-end-line="93" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+              <folding>
+                <marker date="1515080710848" expanded="true" signature="0:213" ph="&lt;IfModule mod_rewrite.c&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="asesoramiento_tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/asesoramiento_tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="33" column="49" lean-forward="true" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+              <folding>
+                <element signature="e#6#40#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="servicios_tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/servicios_tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="39" column="29" lean-forward="true" selection-start-line="37" selection-start-column="20" selection-end-line="39" selection-end-column="29" />
+              <folding>
+                <element signature="e#6#36#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/css/style.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="383" column="0" lean-forward="true" selection-start-line="383" selection-start-column="0" selection-end-line="383" selection-end-column="0" />
+              <folding>
+                <element signature="e#5799#6472#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="medios_equipos_tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/medios_equipos_tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="33" column="46" lean-forward="false" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="46" />
+              <folding>
+                <element signature="e#6#43#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -23,10 +267,32 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>#footer</find>
+      <find>title-section</find>
+      <find>Candara</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/wp-config.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hermac/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hermac/css/mediaqueries.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hermac/css/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hermac/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hermac/footer.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hermac/asesoramiento_tpl.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hermac/servicios_tpl.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hermac/productos_tpl.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hermac/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hermac/medios_equipos_tpl.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hermac/css/style.scss" />
       </list>
     </option>
   </component>
@@ -42,6 +308,9 @@
     <option name="y" value="16" />
     <option name="width" value="1346" />
     <option name="height" value="677" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -67,6 +336,24 @@
               <item name="hermac" type="b2602c69:ProjectViewProjectNode" />
               <item name="hermac" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="hermac" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hermac" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="hermac" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hermac" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="hermac" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hermac" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="hermac" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -78,7 +365,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/themes/hermac/images" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/hermac/fonts" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/themes/hermac" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/hermac/images/notcompress" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/hermac/fonts" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/hermac/images" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -108,33 +403,38 @@
       <option name="presentableId" value="Default" />
       <updated>1514907963969</updated>
       <workItem from="1514907966754" duration="151000" />
+      <workItem from="1514908717957" duration="2978000" />
+      <workItem from="1514991525896" duration="25697000" />
+      <workItem from="1515102650606" duration="5000" />
+      <workItem from="1515437289197" duration="1073000" />
+      <workItem from="1515505594773" duration="3998000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151000" />
+    <option name="totallyTimeSpent" value="33902000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-4" width="1366" height="717" extended-state="6" />
+    <frame x="10" y="16" width="1366" height="717" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24597365" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -149,11 +449,418 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/index-back.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1422">
+          <caret line="79" column="87" lean-forward="false" selection-start-line="79" selection-start-column="87" selection-end-line="79" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding>
+            <marker date="1515080710848" expanded="true" signature="0:213" ph="&lt;IfModule mod_rewrite.c&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/asesoramiento_tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="33" column="49" lean-forward="true" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+          <folding>
+            <element signature="e#6#40#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/servicios_tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="42" column="43" lean-forward="false" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="51" />
+          <folding>
+            <element signature="e#6#36#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5958">
+          <caret line="331" column="24" lean-forward="false" selection-start-line="331" selection-start-column="24" selection-end-line="331" selection-end-column="24" />
+          <folding>
+            <element signature="e#5799#6472#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/productos_tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <element signature="e#6#36#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/css/normalize.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/index-back.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3690">
+          <caret line="205" column="63" lean-forward="false" selection-start-line="205" selection-start-column="40" selection-end-line="205" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="60" column="65" lean-forward="false" selection-start-line="60" selection-start-column="65" selection-end-line="60" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding>
+            <marker date="1515080710848" expanded="true" signature="0:213" ph="&lt;IfModule mod_rewrite.c&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/asesoramiento_tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="33" column="49" lean-forward="true" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+          <folding>
+            <element signature="e#6#40#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5544">
+          <caret line="308" column="26" lean-forward="false" selection-start-line="308" selection-start-column="26" selection-end-line="308" selection-end-column="26" />
+          <folding>
+            <element signature="e#5799#6472#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/css/mixin.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/css/normalize.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/servicios_tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="46" column="26" lean-forward="true" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+          <folding>
+            <element signature="e#6#36#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/index-back.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="e#5799#6472#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/css/mediaqueries.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/css/mixin.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/css/normalize.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/submenu/sub-menu.php" />
+    <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="56" column="9" lean-forward="false" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/css/mediaqueries.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/css/mixin.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/css/normalize.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1152">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding>
+            <marker date="1515080710848" expanded="true" signature="0:213" ph="&lt;IfModule mod_rewrite.c&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/index-back.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="205" column="63" lean-forward="false" selection-start-line="205" selection-start-column="40" selection-end-line="205" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/productos_tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding>
+            <element signature="e#6#36#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="93" column="30" lean-forward="true" selection-start-line="93" selection-start-column="30" selection-end-line="93" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/asesoramiento_tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="33" column="49" lean-forward="true" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+          <folding>
+            <element signature="e#6#40#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/servicios_tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="39" column="29" lean-forward="true" selection-start-line="37" selection-start-column="20" selection-end-line="39" selection-end-column="29" />
+          <folding>
+            <element signature="e#6#36#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/medios_equipos_tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="33" column="46" lean-forward="false" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="46" />
+          <folding>
+            <element signature="e#6#43#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="383" column="0" lean-forward="true" selection-start-line="383" selection-start-column="0" selection-end-line="383" selection-end-column="0" />
+          <folding>
+            <element signature="e#5799#6472#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,0 +1,249 @@
+@font-face {
+  font-family: 'Candara';
+  src: url("../fonts/Candara.eot");
+  src: url("../fonts/Candara.eot?#iefix") format("embedded-opentype"), url("../fonts/Candara.woff2") format("woff2"), url("../fonts/Candara.woff") format("woff"), url("../fonts/Candara.ttf") format("truetype"), url("../fonts/Candara.svg#Candara") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'Myriad Pro';
+  src: url("../fonts/MyriadPro-Regular.eot");
+  src: url("../fonts/MyriadPro-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/MyriadPro-Regular.woff2") format("woff2"), url("../fonts/MyriadPro-Regular.woff") format("woff"), url("../fonts/MyriadPro-Regular.ttf") format("truetype"), url("../fonts/MyriadPro-Regular.svg#MyriadPro-Regular") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'Myriad-Pro-LightCond';
+  src: url("../fonts/MyriadPro-LightCond.eot");
+  src: url("../fonts/MyriadPro-LightCond.eot?#iefix") format("embedded-opentype"), url("../fonts/MyriadPro-LightCond.woff2") format("woff2"), url("../fonts/MyriadPro-LightCond.woff") format("woff"), url("../fonts/MyriadPro-LightCond.ttf") format("truetype"), url("../fonts/MyriadPro-LightCond.svg#MyriadPro-LightCond") format("svg");
+  font-weight: 300;
+  font-style: normal; }
+@font-face {
+  font-family: 'Myriad Pro';
+  src: url("../fonts/MyriadPro-Light.eot");
+  src: url("../fonts/MyriadPro-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/MyriadPro-Light.woff2") format("woff2"), url("../fonts/MyriadPro-Light.woff") format("woff"), url("../fonts/MyriadPro-Light.ttf") format("truetype"), url("../fonts/MyriadPro-Light.svg#MyriadPro-Light") format("svg");
+  font-weight: 300;
+  font-style: normal; }
+html {
+  background: #fff; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  font-size: 1em; }
+
+.wrapper {
+  width: 100%;
+  max-width: 85.375em;
+  margin: 0 auto; }
+
+.header {
+  margin: 0.625em 0 1.875em; }
+
+.menu li {
+  float: left;
+  text-transform: uppercase;
+  font-size: 1.25em;
+  font-family: Myriad Pro;
+  font-weight: 300;
+  margin-right: 1.25em;
+  position: relative; }
+  .menu li:before {
+    content: "";
+    width: 1px;
+    background: #384F5A;
+    height: 1em;
+    right: -0.65em;
+    top: 0;
+    display: block;
+    position: absolute; }
+  .menu li:last-child {
+    margin-right: 0; }
+    .menu li:last-child:before {
+      display: none; }
+  .menu li a {
+    color: #384F5A;
+    text-decoration: none; }
+    .menu li a:hover {
+      color: #0071BB; }
+
+.home {
+  position: relative; }
+  .home .slogan {
+    color: #fff;
+    position: absolute;
+    z-index: 1;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    font-family: Candara; }
+    .home .slogan h2 {
+      font-size: 3.125em;
+      font-weight: bold; }
+    .home .slogan h5 {
+      font-size: 1.75em;
+      font-weight: normal; }
+    .home .slogan p {
+      font-size: 1.25em;
+      font-style: italic; }
+
+.sections {
+  margin: 1.875em 0 !important; }
+  .sections .item-section {
+    text-align: center;
+    padding-bottom: 1.25em;
+    position: relative; }
+    .sections .item-section .icon-section {
+      width: 3.1875em;
+      height: 3.3125em;
+      margin: 0 auto 1.25em;
+      background-repeat: no-repeat; }
+      .sections .item-section .icon-section.asesoramiento {
+        background-image: url("../images/asesoramiento-icon.png"); }
+      .sections .item-section .icon-section.servicios {
+        background-image: url("../images/servicios-icon.png"); }
+      .sections .item-section .icon-section.productos {
+        background-image: url("../images/productos-icon.png"); }
+      .sections .item-section .icon-section.equipos {
+        background-image: url("../images/equipos-icon.png"); }
+    .sections .item-section .title-section {
+      color: #0071BB;
+      text-transform: uppercase;
+      font-size: 1.75em;
+      font-family: Myriad Pro; }
+    .sections .item-section .text-section {
+      font-family: Candara;
+      color: #384F5A;
+      font-size: 0.875em;
+      font-weight: bold; }
+    .sections .item-section .button-section {
+      color: #0071BB;
+      text-transform: uppercase;
+      font-size: 0.75em;
+      font-family: Candara;
+      font-weight: bold;
+      background: #fff;
+      border-radius: 0.625em;
+      padding: 0.3125em 2.8125em;
+      margin-top: 1.25em;
+      visibility: hidden;
+      text-decoration: none; }
+    .sections .item-section:hover {
+      background: #0071BB; }
+      .sections .item-section:hover .icon-section.asesoramiento {
+        background-image: url("../images/asesoramiento-icon-hover.png"); }
+      .sections .item-section:hover .icon-section.servicios {
+        background-image: url("../images/servicios-icon-hover.png"); }
+      .sections .item-section:hover .icon-section.productos {
+        background-image: url("../images/productos-icon-hover.png"); }
+      .sections .item-section:hover .icon-section.equipos {
+        background-image: url("../images/equipos-icon-hover.png"); }
+      .sections .item-section:hover .title-section {
+        color: #fff; }
+      .sections .item-section:hover .text-section {
+        color: #fff; }
+      .sections .item-section:hover .button-section {
+        visibility: visible; }
+      .sections .item-section:hover:before {
+        content: "";
+        width: 100%;
+        background: #0071BB;
+        height: 4em;
+        left: 0;
+        top: -4em;
+        display: block;
+        position: absolute; }
+
+.footer {
+  text-align: center;
+  padding: 1.25em 0 2.8125em 0;
+  font-size: 0.875em;
+  letter-spacing: 0.1428571429em;
+  font-family: Myriad Pro;
+  color: #384F5A; }
+  .footer .name {
+    text-transform: uppercase;
+    color: #0071BB;
+    font-weight: bold; }
+
+.sections .icon-section {
+  margin-bottom: 1em !important; }
+.sections .title-section {
+  color: #0071BB;
+  text-transform: uppercase;
+  font-size: 2.5em;
+  font-family: Myriad Pro;
+  font-weight: 300;
+  margin-bottom: 1.25em !important; }
+.sections.asesoramiento .column-1 {
+  position: relative; }
+  .sections.asesoramiento .column-1 figure {
+    width: 100%; }
+    .sections.asesoramiento .column-1 figure img {
+      width: 100%; }
+  .sections.asesoramiento .column-1 .text {
+    position: absolute;
+    color: #fff;
+    top: 0;
+    left: 0;
+    font-size: 1.25em;
+    font-family: Candara; }
+    .sections.asesoramiento .column-1 .text p {
+      padding: 0 1.5em;
+      word-break: break-all;
+      word-wrap: break-word; }
+.sections.asesoramiento .column-2 {
+  background: #00B8F0; }
+  .sections.asesoramiento .column-2 .text {
+    color: #fff;
+    font-size: 1.125em;
+    font-family: Candara; }
+    .sections.asesoramiento .column-2 .text p {
+      padding: 0 1.6666666667em;
+      line-height: 2.0555555556em; }
+.sections.servicios .content {
+  margin-bottom: 0.625em; }
+  .sections.servicios .content > p {
+    text-align: center;
+    font-size: 1.25em;
+    font-family: Candara; }
+.sections.servicios .column-1, .sections.servicios .column-2 {
+  font-size: 1.125em;
+  font-family: Candara;
+  padding: 1.6666666667em; }
+  .sections.servicios .column-1 br, .sections.servicios .column-2 br {
+    line-height: 200%; }
+.sections.productos .content {
+  margin-bottom: 0.625em; }
+  .sections.productos .content > p {
+    text-align: center;
+    font-size: 1.25em;
+    font-family: Candara; }
+.sections.productos .col-container {
+  background: #00B8F0;
+  color: #fff;
+  font-family: Candara;
+  margin-top: 0.625em; }
+  .sections.productos .col-container h1 {
+    text-transform: uppercase;
+    font-size: 1.5em; }
+  .sections.productos .col-container .col-content {
+    font-size: 1.125em; }
+  .sections.productos .col-container .columna-1 {
+    padding: 0.9375em 0 0 3.125em;
+    background: url("../images/gas-natural.jpg"); }
+  .sections.productos .col-container .columna-2, .sections.productos .col-container .columna-4 {
+    padding: 0.9375em 0 0 1.875em; }
+  .sections.productos .col-container .columna-3 {
+    padding: 0.9375em 0 0 3.125em;
+    background: url("../images/electromecanica.jpg"); }
+.sections.medios .content {
+  font-family: Candara; }
+  .sections.medios .content p {
+    margin: 0;
+    font-size: 1.25em;
+    color: #454852;
+    padding-right: 2em; }
+
+/*# sourceMappingURL=style.css.map */
