@@ -245,5 +245,32 @@ html, body {
     font-size: 1.25em;
     color: #454852;
     padding-right: 2em; }
+.sections.objetivo .content {
+  font-family: Candara; }
+  .sections.objetivo .content p {
+    margin: 0;
+    font-size: 1.25em;
+    color: #454852;
+    padding-right: 2em; }
+.sections.planificacion .content {
+  margin-bottom: 0.625em; }
+  .sections.planificacion .content > p {
+    text-align: center;
+    font-size: 1.25em;
+    font-family: Candara; }
+.sections.planificacion .column-1, .sections.planificacion .column-2, .sections.planificacion .column-3 {
+  font-size: 1.125em;
+  font-family: Candara;
+  padding: 1.6666666667em; }
+  .sections.planificacion .column-1 h1, .sections.planificacion .column-2 h1, .sections.planificacion .column-3 h1 {
+    color: #0071BB;
+    text-transform: uppercase;
+    font-size: 1.25em;
+    font-family: Myriad Pro;
+    font-weight: 300; }
+  .sections.planificacion .column-1 .subtitulo, .sections.planificacion .column-2 .subtitulo, .sections.planificacion .column-3 .subtitulo {
+    color: #00B8F1; }
+  .sections.planificacion .column-1 br, .sections.planificacion .column-2 br, .sections.planificacion .column-3 br {
+    line-height: 150%; }
 
 /*# sourceMappingURL=style.css.map */
