@@ -66,6 +66,10 @@ html, body {
     text-decoration: none; }
     .menu li a:hover {
       color: #0071BB; }
+  .menu li.current-menu-item a {
+    color: #0071BB;
+    text-decoration: none;
+    font-weight: 500; }
 
 .home {
   position: relative; }
@@ -227,7 +231,9 @@ html, body {
   margin-top: 0.625em; }
   .sections.productos .col-container h1 {
     text-transform: uppercase;
-    font-size: 1.5em; }
+    font-size: 1.5em;
+    font-family: "Myriad Pro";
+    font-weight: 300; }
   .sections.productos .col-container .col-content {
     font-size: 1.125em; }
   .sections.productos .col-container .columna-1 {
@@ -272,5 +278,86 @@ html, body {
     color: #00B8F1; }
   .sections.planificacion .column-1 br, .sections.planificacion .column-2 br, .sections.planificacion .column-3 br {
     line-height: 150%; }
+.sections.clientes .content {
+  margin-bottom: 0.625em; }
+  .sections.clientes .content > p {
+    text-align: center;
+    font-size: 1.25em;
+    font-family: Candara; }
+.sections.clientes .column-1, .sections.clientes .column-2, .sections.clientes .column-3, .sections.clientes .column-4 {
+  font-size: 0.875em;
+  font-family: Candara;
+  padding: 2.1428571429em;
+  color: #0071BB; }
+  .sections.clientes .column-1 br, .sections.clientes .column-2 br, .sections.clientes .column-3 br, .sections.clientes .column-4 br {
+    line-height: 100%; }
+.sections.referencias .content {
+  margin-bottom: 0.625em; }
+  .sections.referencias .content > p {
+    text-align: center;
+    font-size: 1.25em;
+    font-family: Candara; }
+.sections.referencias .column-1, .sections.referencias .column-2 {
+  font-size: 1.125em;
+  font-family: Candara;
+  padding: 1.6666666667em;
+  color: #0071BB; }
+  .sections.referencias .column-1 br, .sections.referencias .column-2 br {
+    line-height: 100%; }
+.sections.trading .content {
+  margin-bottom: 0.625em; }
+  .sections.trading .content > p {
+    text-align: center;
+    font-size: 1.25em;
+    font-family: Candara; }
+.sections.trading .col-container {
+  background: #00B8F0;
+  color: #fff;
+  font-family: Candara;
+  margin-top: 0.625em; }
+  .sections.trading .col-container h1 {
+    text-transform: uppercase;
+    font-size: 1.5em;
+    font-family: "Myriad Pro";
+    font-weight: 300; }
+  .sections.trading .col-container .col-content {
+    font-size: 1.125em; }
+  .sections.trading .col-container .columna-1 {
+    padding: 0.9375em 0 0 3.125em; }
+  .sections.trading .col-container .columna-2 {
+    padding: 0.9375em 0 0 1.875em;
+    background: #0070BA; }
+  .sections.trading .col-container .columna-3 {
+    padding: 0.9375em 3.125em 0;
+    background: #0086CC; }
+.sections.contacto .content {
+  margin-bottom: 0.625em; }
+  .sections.contacto .content > p {
+    text-align: center;
+    font-size: 1.25em;
+    font-family: Candara; }
+.sections.contacto .form label {
+  text-transform: uppercase;
+  font-family: "Myriad Pro";
+  font-weight: 300;
+  font-size: 1.25em; }
+.sections.contacto .form input[type="text"], .sections.contacto .form input[type="email"], .sections.contacto .form textarea {
+  width: 100%;
+  padding: 0.3125em;
+  border-collapse: collapse;
+  border-radius: 0.3125em;
+  border: solid 1px #A2A3A9;
+  background: transparent;
+  font-family: "Myriad Pro"; }
+.sections.contacto .form input[type="submit"] {
+  background: #0070BA;
+  color: #fff;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 0.75em;
+  border-radius: 20.8333333333em;
+  font-family: "Myriad Pro";
+  padding: 1.5625em 0.625em;
+  border: none; }
 
 /*# sourceMappingURL=style.css.map */

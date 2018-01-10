@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="724f3888-a5d2-4e34-8d72-9a4cc3370e0e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/hermac/objetivo_tpl.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/hermac/planificacion_tpl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/hermac/clientes_tpl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/hermac/contacto_tpl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/hermac/referencias_tpl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/hermac/trading_tpl.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/hermac/css/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/hermac/css/style.css" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/hermac/css/style.css.map" afterPath="$PROJECT_DIR$/wp-content/themes/hermac/css/style.css.map" />
@@ -18,46 +20,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index-back.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/index-back.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="205" column="63" lean-forward="false" selection-start-line="205" selection-start-column="40" selection-end-line="205" selection-end-column="63" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="93" column="30" lean-forward="true" selection-start-line="93" selection-start-column="30" selection-end-line="93" selection-end-column="30" />
+            <state relative-caret-position="1674">
+              <caret line="93" column="30" lean-forward="false" selection-start-line="93" selection-start-column="30" selection-end-line="93" selection-end-column="30" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.htaccess">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-              <folding>
-                <marker date="1515080710848" expanded="true" signature="0:213" ph="&lt;IfModule mod_rewrite.c&gt;" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="asesoramiento_tpl.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/asesoramiento_tpl.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="33" column="49" lean-forward="true" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
-              <folding>
-                <element signature="e#6#40#0#PHP" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -65,8 +33,8 @@
       <file leaf-file-name="servicios_tpl.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/servicios_tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="39" column="29" lean-forward="true" selection-start-line="37" selection-start-column="20" selection-end-line="39" selection-end-column="29" />
+            <state relative-caret-position="666">
+              <caret line="39" column="29" lean-forward="false" selection-start-line="37" selection-start-column="20" selection-end-line="39" selection-end-column="29" />
               <folding>
                 <element signature="e#6#36#0#PHP" expanded="true" />
               </folding>
@@ -77,11 +45,60 @@
       <file leaf-file-name="style.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/css/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="430" column="0" lean-forward="true" selection-start-line="430" selection-start-column="0" selection-end-line="430" selection-end-column="0" />
+            <state relative-caret-position="324">
+              <caret line="569" column="29" lean-forward="false" selection-start-line="569" selection-start-column="29" selection-end-line="569" selection-end-column="29" />
               <folding>
-                <element signature="e#5799#6472#0" expanded="false" />
-                <element signature="e#6488#6816#0" expanded="false" />
+                <element signature="e#5930#6603#0" expanded="false" />
+                <element signature="e#6619#6947#0" expanded="false" />
+                <element signature="e#8781#9153#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contacto_tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/contacto_tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="23" column="60" lean-forward="false" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
+              <folding>
+                <element signature="e#6#35#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trading_tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/trading_tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="46" column="65" lean-forward="true" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="65" />
+              <folding>
+                <element signature="e#6#34#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="referencias_tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/referencias_tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="41" column="26" lean-forward="false" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+              <folding>
+                <element signature="e#6#38#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="clientes_tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/clientes_tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="36" column="34" lean-forward="false" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+              <folding>
+                <element signature="e#6#35#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -90,7 +107,7 @@
       <file leaf-file-name="objetivo_tpl.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/objetivo_tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="666">
               <caret line="39" column="69" lean-forward="false" selection-start-line="39" selection-start-column="69" selection-end-line="39" selection-end-column="69" />
               <folding>
                 <element signature="e#6#35#0#PHP" expanded="true" />
@@ -102,7 +119,7 @@
       <file leaf-file-name="planificacion_tpl.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/planificacion_tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-72">
+            <state relative-caret-position="378">
               <caret line="23" column="65" lean-forward="false" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
               <folding>
                 <element signature="e#6#40#0#PHP" expanded="true" />
@@ -114,21 +131,11 @@
       <file leaf-file-name="medios_equipos_tpl.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/medios_equipos_tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
+            <state relative-caret-position="558">
               <caret line="33" column="46" lean-forward="false" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="46" />
               <folding>
                 <element signature="e#6#43#0#PHP" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="25" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -139,8 +146,11 @@
     <findStrings>
       <find>#footer</find>
       <find>title-section</find>
-      <find>Candara</find>
       <find>servicios</find>
+      <find>Candara</find>
+      <find>produc</find>
+      <find>productos</find>
+      <find>men</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -163,6 +173,10 @@
         <option value="$PROJECT_DIR$/wp-content/themes/hermac/medios_equipos_tpl.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/hermac/objetivo_tpl.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/hermac/planificacion_tpl.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hermac/clientes_tpl.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hermac/referencias_tpl.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hermac/trading_tpl.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hermac/contacto_tpl.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/hermac/css/style.scss" />
       </list>
     </option>
@@ -198,8 +212,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -236,16 +250,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/wp-content/themes/hermac/images" />
-      <recent name="$PROJECT_DIR$/wp-content/themes/hermac/fonts" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/wp-content/themes/hermac" />
       <recent name="$PROJECT_DIR$/wp-content/themes/hermac/images/notcompress" />
       <recent name="$PROJECT_DIR$/wp-content/themes/hermac/fonts" />
       <recent name="$PROJECT_DIR$/wp-content/themes/hermac/images" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/themes/hermac/images" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/hermac/fonts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -279,25 +293,26 @@
       <workItem from="1515102650606" duration="5000" />
       <workItem from="1515437289197" duration="1073000" />
       <workItem from="1515505594773" duration="6628000" />
+      <workItem from="1515606510808" duration="6758000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36532000" />
+    <option name="totallyTimeSpent" value="43290000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="16" width="1366" height="717" extended-state="6" />
+    <frame x="10" y="16" width="1368" height="725" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25454545" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25833333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282313" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -320,51 +335,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1422">
-          <caret line="79" column="87" lean-forward="false" selection-start-line="79" selection-start-column="87" selection-end-line="79" selection-end-column="87" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          <folding>
-            <marker date="1515080710848" expanded="true" signature="0:213" ph="&lt;IfModule mod_rewrite.c&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/asesoramiento_tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="33" column="49" lean-forward="true" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
-          <folding>
-            <element signature="e#6#40#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/servicios_tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="42" column="43" lean-forward="false" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="51" />
-          <folding>
-            <element signature="e#6#36#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/css/style.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5958">
           <caret line="331" column="24" lean-forward="false" selection-start-line="331" selection-start-column="24" selection-end-line="331" selection-end-column="24" />
           <folding>
-            <element signature="e#5799#6472#0" expanded="false" />
-            <element signature="e#6488#6816#0" expanded="false" />
+            <element signature="e#5930#6603#0" expanded="false" />
+            <element signature="e#6619#6947#0" expanded="false" />
+            <element signature="e#8781#9153#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -374,7 +352,7 @@
         <state relative-caret-position="450">
           <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
           <folding>
-            <element signature="e#6#36#0#PHP" expanded="true" />
+            <element signature="e#6#36#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -423,9 +401,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          <folding>
-            <marker date="1515080710848" expanded="true" signature="0:213" ph="&lt;IfModule mod_rewrite.c&gt;" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -434,7 +410,7 @@
         <state relative-caret-position="558">
           <caret line="33" column="49" lean-forward="true" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
           <folding>
-            <element signature="e#6#40#0#PHP" expanded="true" />
+            <element signature="e#6#40#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -444,8 +420,9 @@
         <state relative-caret-position="5544">
           <caret line="308" column="26" lean-forward="false" selection-start-line="308" selection-start-column="26" selection-end-line="308" selection-end-column="26" />
           <folding>
-            <element signature="e#5799#6472#0" expanded="false" />
-            <element signature="e#6488#6816#0" expanded="false" />
+            <element signature="e#5930#6603#0" expanded="false" />
+            <element signature="e#6619#6947#0" expanded="false" />
+            <element signature="e#8781#9153#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -536,8 +513,9 @@
         <state relative-caret-position="774">
           <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding>
-            <element signature="e#5799#6472#0" expanded="false" />
-            <element signature="e#6488#6816#0" expanded="false" />
+            <element signature="e#5930#6603#0" expanded="false" />
+            <element signature="e#6619#6947#0" expanded="false" />
+            <element signature="e#8781#9153#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -650,15 +628,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          <folding>
-            <marker date="1515080710848" expanded="true" signature="0:213" ph="&lt;IfModule mod_rewrite.c&gt;" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/index-back.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="3690">
           <caret line="205" column="63" lean-forward="false" selection-start-line="205" selection-start-column="40" selection-end-line="205" selection-end-column="63" />
           <folding />
         </state>
@@ -669,7 +645,7 @@
         <state relative-caret-position="126">
           <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
           <folding>
-            <element signature="e#6#36#0#PHP" expanded="true" />
+            <element signature="e#6#36#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -682,28 +658,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="93" column="30" lean-forward="true" selection-start-line="93" selection-start-column="30" selection-end-line="93" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/asesoramiento_tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
+        <state relative-caret-position="558">
           <caret line="33" column="49" lean-forward="true" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
           <folding>
-            <element signature="e#6#40#0#PHP" expanded="true" />
+            <element signature="e#6#40#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/servicios_tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="39" column="29" lean-forward="true" selection-start-line="37" selection-start-column="20" selection-end-line="39" selection-end-column="29" />
+        <state relative-caret-position="666">
+          <caret line="39" column="29" lean-forward="false" selection-start-line="37" selection-start-column="20" selection-end-line="39" selection-end-column="29" />
           <folding>
             <element signature="e#6#36#0#PHP" expanded="true" />
           </folding>
@@ -712,7 +680,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/medios_equipos_tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
+        <state relative-caret-position="558">
           <caret line="33" column="46" lean-forward="false" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="46" />
           <folding>
             <element signature="e#6#43#0#PHP" expanded="true" />
@@ -722,7 +690,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/objetivo_tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="666">
           <caret line="39" column="69" lean-forward="false" selection-start-line="39" selection-start-column="69" selection-end-line="39" selection-end-column="69" />
           <folding>
             <element signature="e#6#35#0#PHP" expanded="true" />
@@ -732,7 +700,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/planificacion_tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-72">
+        <state relative-caret-position="378">
           <caret line="23" column="65" lean-forward="false" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
           <folding>
             <element signature="e#6#40#0#PHP" expanded="true" />
@@ -740,13 +708,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1674">
+          <caret line="93" column="30" lean-forward="false" selection-start-line="93" selection-start-column="30" selection-end-line="93" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/clientes_tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="36" column="34" lean-forward="false" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+          <folding>
+            <element signature="e#6#35#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/referencias_tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="41" column="26" lean-forward="false" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+          <folding>
+            <element signature="e#6#38#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/trading_tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="46" column="65" lean-forward="true" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="65" />
+          <folding>
+            <element signature="e#6#34#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/contacto_tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="23" column="60" lean-forward="false" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
+          <folding>
+            <element signature="e#6#35#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/hermac/css/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="430" column="0" lean-forward="true" selection-start-line="430" selection-start-column="0" selection-end-line="430" selection-end-column="0" />
+        <state relative-caret-position="324">
+          <caret line="569" column="29" lean-forward="false" selection-start-line="569" selection-start-column="29" selection-end-line="569" selection-end-column="29" />
           <folding>
-            <element signature="e#5799#6472#0" expanded="false" />
-            <element signature="e#6488#6816#0" expanded="false" />
+            <element signature="e#5930#6603#0" expanded="false" />
+            <element signature="e#6619#6947#0" expanded="false" />
+            <element signature="e#8781#9153#0" expanded="false" />
           </folding>
         </state>
       </provider>
