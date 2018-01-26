@@ -11,7 +11,7 @@ $medios_equipos = new WP_Query('page_id=53');
 <body <?php body_class(); ?>>
 <div id="site" class="clearfix wrapper">
     <header id="header" class="header grid-spaceAround">
-        <div class="col-3">
+        <div class="col-3_xs-5">
             <a class="logo-wrapper" href="<?php echo get_site_url(); ?>">
                 <img src="<?php echo get_template_directory_uri(); ?>/images/logo-hermac.png"
                      alt="<?php bloginfo('name'); ?>"/>
@@ -34,7 +34,7 @@ $medios_equipos = new WP_Query('page_id=53');
                 <?php endwhile; endif; ?>
         </div>
         <div class="col-12 grid sections">
-            <div class="col-3 item-section">
+            <div class="col-3_sm-6_xs-12 item-section">
                 <?php if ($asesoramiento->have_posts()):
                     while ($asesoramiento->have_posts()):$asesoramiento->the_post(); ?>
                         <figure class="icon-section asesoramiento">
@@ -50,7 +50,7 @@ $medios_equipos = new WP_Query('page_id=53');
                     <?php endwhile; endif; ?>
             </div>
 
-            <div class="col-3 item-section">
+            <div class="col-3_sm-6_xs-12 item-section">
                 <?php if ($servicios->have_posts()):
                     while ($servicios->have_posts()):$servicios->the_post(); ?>
                         <figure class="icon-section servicios">
@@ -66,7 +66,7 @@ $medios_equipos = new WP_Query('page_id=53');
                     <?php endwhile; endif; ?>
             </div>
 
-            <div class="col-3 item-section">
+            <div class="col-3_sm-6_xs-12 item-section">
                 <?php if ($productos->have_posts()):
                     while ($productos->have_posts()):$productos->the_post(); ?>
                         <figure class="icon-section productos">
@@ -82,7 +82,7 @@ $medios_equipos = new WP_Query('page_id=53');
                     <?php endwhile; endif; ?>
             </div>
 
-            <div class="col-3 item-section">
+            <div class="col-3_sm-6_xs-12 item-section">
                 <?php if ($medios_equipos->have_posts()):
                     while ($medios_equipos->have_posts()):$medios_equipos->the_post(); ?>
                         <figure class="icon-section equipos">

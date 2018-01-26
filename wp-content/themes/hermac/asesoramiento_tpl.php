@@ -11,7 +11,7 @@ $asesoramiento = new WP_Query('page_id=35');
 <body <?php body_class(); ?>>
 <div id="site" class="clearfix wrapper">
     <header id="header" class="header grid-spaceAround">
-        <div class="col-3">
+        <div class="col-3_xs-5">
             <a class="logo-wrapper" href="<?php echo get_site_url(); ?>">
                 <img src="<?php echo get_template_directory_uri(); ?>/images/logo-hermac.png"
                      alt="<?php bloginfo('name'); ?>"/>
@@ -31,7 +31,7 @@ $asesoramiento = new WP_Query('page_id=35');
             </figure>
             <h1 class="title-section col-12 grid-center"><?php the_title(); ?></h1>
             <div class="content col-12 grid">
-                <div class="col-3 grid column-1">
+                <div class="col-3_sm-12 grid column-1">
                     <figure>
                         <img src="<?php echo the_field('imagen_1_cuerpo') ?>"/>
                     </figure>
@@ -39,7 +39,7 @@ $asesoramiento = new WP_Query('page_id=35');
                         <?php echo the_field('columna_1_cuerpo'); ?>
                     </div>
                 </div>
-                <div class="col-9 column-2" >
+                <div class="col-9_sm-12 column-2" >
                     <div class="text">
                         <?php echo the_field('columna_2_cuerpo'); ?>
                     </div>

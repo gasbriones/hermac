@@ -11,7 +11,7 @@ $medios = new WP_Query('page_id=53');
 <body <?php body_class(); ?>>
 <div id="site" class="clearfix wrapper">
     <header id="header" class="header grid-spaceAround">
-        <div class="col-3">
+        <div class="col-3_xs-5">
             <a class="logo-wrapper" href="<?php echo get_site_url(); ?>">
                 <img src="<?php echo get_template_directory_uri(); ?>/images/logo-hermac.png"
                      alt="<?php bloginfo('name'); ?>"/>
@@ -32,10 +32,10 @@ $medios = new WP_Query('page_id=53');
             <h1 class="title-section col-12 grid-center"><?php the_title(); ?></h1>
             <div class="content col-12 grid-center">
                 <div class="col-9 grid content">
-                    <div class="col-6">
+                    <div class="col-6_sm-12">
                         <?php the_content(); ?>
                     </div>
-                    <div class="col-6">
+                    <div class="col-6_sm-12">
                         <figure>
                             <img src="<?php echo the_field('imagen_cuerpo') ?>"/>
                         </figure>

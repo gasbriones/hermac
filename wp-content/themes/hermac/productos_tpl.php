@@ -11,7 +11,7 @@ $productos = new WP_Query('page_id=48');
 <body <?php body_class(); ?>>
 <div id="site" class="clearfix wrapper">
     <header id="header" class="header grid-spaceAround">
-        <div class="col-3">
+        <div class="col-3_xs-5">
             <a class="logo-wrapper" href="<?php echo get_site_url(); ?>">
                 <img src="<?php echo get_template_directory_uri(); ?>/images/logo-hermac.png"
                      alt="<?php bloginfo('name'); ?>"/>
@@ -35,27 +35,27 @@ $productos = new WP_Query('page_id=48');
                     <?php the_content(); ?>
                 </div>
                 <div class="col-12 grid col-container">
-                    <div class="col-3 columna-1">
+                    <div class="col-3_sm-12 grid-center columna-1">
                         <h1><?php echo the_field('titulo_col_1'); ?></h1>
-                        <div class="col-content">
+                        <div class="col-12 col-content">
                             <?php echo the_field('cuerpo_col_1'); ?>
                         </div>
                     </div>
-                    <div class="col-3 columna-2">
+                    <div class="col-3_sm-12 grid-center columna-2">
                         <h1><?php echo the_field('titulo_col_2'); ?></h1>
-                        <div class="col-content">
+                        <div class="col-12 col-content">
                             <?php echo the_field('cuerpo_col_2'); ?>
                         </div>
                     </div>
-                    <div class="col-3 columna-3">
+                    <div class="col-3_sm-12 grid-center columna-3">
                         <h1><?php echo the_field('titulo_col_3'); ?></h1>
-                        <div class="col-content">
+                        <div class="col-12 col-content">
                             <?php echo the_field('cuerpo_col_3'); ?>
                         </div>
                     </div>
-                    <div class="col-3 columna-4">
+                    <div class="col-3_sm-12 grid-center columna-4">
                         <h1><?php echo the_field('titulo_col_4'); ?></h1>
-                        <div class="col-content">
+                        <div class="col-12 col-content">
                             <?php echo the_field('cuerpo_col_4'); ?>
                         </div>
                     </div>

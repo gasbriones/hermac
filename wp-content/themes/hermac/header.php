@@ -13,10 +13,9 @@
 <html <?php language_attributes(); ?> >
 <head>
     <meta charset="<?php bloginfo('charset'); ?>"/>
-    <meta name="viewport" content="width=device-width"/>
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, initial-scale=1.0">
     <meta name="description" content="<?php bloginfo('description'); ?>"/>
     <meta name="keywords" content="">
-    <meta name="format-detection" content="telephone=no">
     <!-- Facebook -->
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="<?php bloginfo('name'); ?>"/>

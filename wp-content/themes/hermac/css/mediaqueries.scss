@@ -1,60 +1,48 @@
+@media screen and (max-width: (420em/16)){
+  .home .slogan {
 
+    h2{
+      font-size: (18em/16);
+    }
+    h5{
+      font-size: (14em/16);
+    }
 
-
-
-@media screen and (max-width: 35.5em){
-  [class*="grid"] > [class*="col-4"] {
-    &.gallery {
-      flex-basis: 100%;
-      max-width: 100%;
+    p{
+      font-size: (12em/16);
     }
   }
-
-  #contacto{
-    .title{
-      margin-bottom: (10em/16);
-    }
-  }
-
-  .page-title{
-    font-size: (42em/16);
-  }
-
-
-
-
-
-
-
-
 }
 
-@media screen and (max-width: 48em){
-  #burger {
-    display: block;
-  }
-  .header{
-    padding-top: (10em/16);
-  }
-  .menu {
-    background: #ffffff none repeat scroll 0 0;
-    box-sizing: border-box;
-    height: 100%;
-    padding-left: 2.1875em;
-    position: absolute;
-    right: -600%;
-    transition: right 0.5s ease 0s;
-    z-index: 999;
-    display: table;
-    li{
-      float: none !important;
-      margin-bottom: (10em/16);
+
+@media screen and (min-width: (421em/16)) and (max-width: (600em/16)){
+  .home .slogan {
+
+    h2{
+      font-size: (20em/16);
+    }
+    h5{
+      font-size: (16em/16);
+    }
+
+    p{
+      font-size: (14em/16);
     }
   }
+}
 
-  #check:checked ~ .menu {
-    right: 0;
+
+
+
+
+@media screen and (max-width: (1024em/16)){
+  .menu-header-menu-container {
+    display: none;
   }
 }
+
+
+
+
 
 
