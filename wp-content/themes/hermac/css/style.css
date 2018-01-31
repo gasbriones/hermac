@@ -194,9 +194,7 @@ html, body {
     font-size: 1.25em;
     font-family: Candara; }
     .sections.asesoramiento .column-1 .text p {
-      padding: 0 1.5em;
-      word-break: break-all;
-      word-wrap: break-word; }
+      padding: 0 1.5em; }
 .sections.asesoramiento .column-2 {
   background: #00B8F0; }
   .sections.asesoramiento .column-2 .text {

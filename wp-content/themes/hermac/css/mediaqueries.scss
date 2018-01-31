@@ -1,3 +1,7 @@
+
+
+
+
 @media screen and (max-width: (420em/16)){
   .home .slogan {
 
@@ -39,7 +43,70 @@
   .menu-header-menu-container {
     display: none;
   }
+
+
+  .sections .title-section {
+    margin-bottom: .5em !important;
+  }
+
+  .sections.objetivo .content p{
+    padding-right:0;
+    margin-bottom: 1em;
+  }
+
+  .sections.planificacion .column-1,
+  .sections.planificacion .column-2,
+  .sections.planificacion .column-3 {
+    padding: 0 1.6666666667em;
+  }
+
+  .sections.clientes .column-1,
+  .sections.clientes .column-2,
+  .sections.clientes .column-3,
+  .sections.clientes .column-4{
+    padding: 0 2.1428571429em;
+  }
+
+  .sections.referencias .column-1, .sections.referencias .column-2{
+    padding: 0 1.6666666667em;
+  }
+
+  .sections.trading {
+    .col-container {
+      .columna-1,
+      .columna-2,
+      .columna-3{
+        padding: 1.5em;
+      }
+    }
+  }
+
+  .sections.servicios .column-1, .sections.servicios .column-2 {
+    padding: 0 1.6666666667em;
+  }
+
+
+  .sections.productos {
+    .col-container {
+      .columna-1,
+      .columna-2,
+      .columna-3,
+      .columna-4{
+        padding: 1.5em;
+      }
+    }
+  }
+
+  .sections.medios .content p {
+    padding-right:0;
+    margin-bottom: 1em;
+  }
+
 }
+
+
+
+
 
 
 
