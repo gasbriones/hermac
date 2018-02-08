@@ -1,12 +1,29 @@
 <?php
 
-
+include 'lang/lang.php';
 get_header();
-$home = new WP_Query('page_id=26');
-$asesoramiento = new WP_Query('page_id=35');
-$servicios = new WP_Query('page_id=42');
-$productos = new WP_Query('page_id=48');
-$medios_equipos = new WP_Query('page_id=53');
+
+$home_str = 'home';
+$asesoramiento_str = 'asesoramiento';
+$servicios_str = 'servicios';
+$productos_str = 'productos';
+$medios_equipos_str = 'medios-y-equipos';
+
+$blog_id = get_current_blog_id();
+
+if($blog_id == 2){
+    $asesoramiento_str ='advice';
+    $servicios_str = 'services';
+    $productos_str = 'products';
+    $medios_equipos_str = 'means-and-equipment';
+}
+
+$home = new WP_Query('pagename='.$home_str);
+$asesoramiento = new WP_Query('pagename='.$asesoramiento_str);
+$servicios = new WP_Query('pagename='.$servicios_str);
+$productos = new WP_Query('pagename='.$productos_str);
+$medios_equipos = new WP_Query('pagename='.$medios_equipos_str);
+
 ?>
 <body <?php body_class(); ?>>
 <div id="site" class="clearfix wrapper">
@@ -45,7 +62,7 @@ $medios_equipos = new WP_Query('page_id=53');
                             <?php echo the_field('intro_home') ?>
                         </div>
                         <div>
-                            <a class="button-section" href="<?php echo get_page_link(35); ?>" >leer más</a>
+                            <a class="button-section" href="<?php echo get_page_link($asesoramiento_str); ?>" >leer más</a>
                         </div>
                     <?php endwhile; endif; ?>
             </div>
@@ -61,7 +78,7 @@ $medios_equipos = new WP_Query('page_id=53');
                             <?php echo the_field('intro_home') ?>
                         </div>
                         <div>
-                            <a class="button-section" href="<?php echo get_page_link(42); ?>" >leer más</a>
+                            <a class="button-section" href="<?php echo get_page_link($servicios_str); ?>" >leer más</a>
                         </div>
                     <?php endwhile; endif; ?>
             </div>
@@ -77,7 +94,7 @@ $medios_equipos = new WP_Query('page_id=53');
                             <?php echo the_field('intro_home') ?>
                         </div>
                         <div>
-                            <a class="button-section" href="<?php echo get_page_link(48); ?>" >leer más</a>
+                            <a class="button-section" href="<?php echo get_page_link($productos_str); ?>" >leer más</a>
                         </div>
                     <?php endwhile; endif; ?>
             </div>
@@ -93,7 +110,7 @@ $medios_equipos = new WP_Query('page_id=53');
                             <?php echo the_field('intro_home') ?>
                         </div>
                         <div>
-                            <a class="button-section" href="<?php echo get_page_link(53); ?>" >leer más</a>
+                            <a class="button-section" href="<?php echo get_page_link($medios_equipos_str); ?>" >leer más</a>
                         </div>
                     <?php endwhile; endif; ?>
             </div>

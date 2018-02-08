@@ -4,8 +4,14 @@ Template Name: Asesoramiento
 */
 
 get_header();
+$blog_id = get_current_blog_id();
 
-$asesoramiento = new WP_Query('page_id=35');
+$pagename = 'asesoramiento';
+if($blog_id == 2){
+    $pagename = 'advice';
+}
+
+$asesoramiento = new WP_Query('pagename='.$pagename);
 
 ?>
 <body <?php body_class(); ?>>

@@ -4,8 +4,12 @@ Template Name: Planificacion
 */
 
 get_header();
-
-$planificacion = new WP_Query('page_id=10');
+$blog_id = get_current_blog_id();
+$pagename = 'planificacion';
+if($blog_id == 2){
+    $pagename = 'planning';
+}
+$planificacion = new WP_Query('pagename='.$pagename);
 
 ?>
 <body <?php body_class(); ?>>

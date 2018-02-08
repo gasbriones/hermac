@@ -4,8 +4,14 @@ Template Name: Medios y Equipos
 */
 
 get_header();
+$blog_id = get_current_blog_id();
+$pagename = 'medios-y-equipos';
+if($blog_id == 2){
+    $pagename = 'means-and-equipment';
+}
 
-$medios = new WP_Query('page_id=53');
+
+$medios = new WP_Query('pagename='.$pagename);
 
 ?>
 <body <?php body_class(); ?>>

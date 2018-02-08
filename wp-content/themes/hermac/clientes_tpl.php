@@ -4,8 +4,14 @@ Template Name: Clientes
 */
 
 get_header();
+$blog_id = get_current_blog_id();
+$pagename = 'clientes';
+if($blog_id == 2){
+    $pagename = 'customers';
+}
 
-$clientes = new WP_Query('page_id=12');
+
+$clientes = new WP_Query('pagename='.$pagename);
 
 ?>
 <body <?php body_class(); ?>>

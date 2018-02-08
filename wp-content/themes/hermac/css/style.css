@@ -84,10 +84,12 @@ html, body {
     font-family: Candara; }
     .home .slogan h2 {
       font-size: 3.125em;
-      font-weight: bold; }
+      font-weight: bold;
+      text-transform: uppercase; }
     .home .slogan h5 {
       font-size: 1.75em;
-      font-weight: normal; }
+      font-weight: normal;
+      text-transform: uppercase; }
     .home .slogan p {
       font-size: 1.25em;
       font-style: italic; }

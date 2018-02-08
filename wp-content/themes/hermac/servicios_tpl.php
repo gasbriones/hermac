@@ -5,7 +5,14 @@ Template Name: Servicios
 
 get_header();
 
-$servicios = new WP_Query('page_id=42');
+$blog_id = get_current_blog_id();
+$pagename = 'servicios';
+if($blog_id == 2){
+    $pagename = 'services';
+}
+
+
+$servicios = new WP_Query('pagename='.$pagename);
 
 ?>
 <body <?php body_class(); ?>>

@@ -5,7 +5,14 @@ Template Name: Productos
 
 get_header();
 
-$productos = new WP_Query('page_id=48');
+$blog_id = get_current_blog_id();
+$pagename = 'productos';
+if($blog_id == 2){
+    $pagename = 'products';
+}
+
+
+$productos = new WP_Query('pagename='.$pagename);
 
 ?>
 <body <?php body_class(); ?>>

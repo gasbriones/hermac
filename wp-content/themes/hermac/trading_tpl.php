@@ -5,7 +5,7 @@ Template Name: Trading
 
 get_header();
 
-$trading = new WP_Query('page_id=16');
+$trading = new WP_Query('pagename=hermac-trading');
 
 ?>
 <body <?php body_class(); ?>>

@@ -4,8 +4,13 @@ Template Name: Contacto
 */
 
 get_header();
+$blog_id = get_current_blog_id();
+$pagename = 'contacto';
+if($blog_id == 2){
+    $pagename = 'contact';
+}
 
-$contacto = new WP_Query('page_id=18');
+$contacto = new WP_Query('pagename='.$pagename);
 
 ?>
 <body <?php body_class(); ?>>

@@ -5,7 +5,13 @@ Template Name: Referencias
 
 get_header();
 
-$referencias = new WP_Query('page_id=14');
+$blog_id = get_current_blog_id();
+$pagename = 'referencias';
+if($blog_id == 2){
+    $pagename = 'references';
+}
+
+$referencias = new WP_Query('pagename='.$pagename);
 
 ?>
 <body <?php body_class(); ?>>

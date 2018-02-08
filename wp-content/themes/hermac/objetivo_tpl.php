@@ -5,7 +5,15 @@ Template Name: Objetivo
 
 get_header();
 
-$objetivo = new WP_Query('page_id=8');
+$blog_id = get_current_blog_id();
+$pagename = 'objetivo';
+if($blog_id == 2){
+    $pagename = 'goal';
+}
+
+
+
+$objetivo = new WP_Query('pagename='.$pagename);
 
 ?>
 <body <?php body_class(); ?>>
