@@ -1,6 +1,5 @@
-
 RewriteEngine On
-RewriteBase /hermac/
+RewriteBase /
 RewriteRule ^index\.php$ - [L]
 
 # add a trailing slash to /wp-admin

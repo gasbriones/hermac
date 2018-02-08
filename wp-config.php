@@ -20,13 +20,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'hermac');
+define('DB_NAME', 'berretin_hermac');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'berretin_hermac');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'root');
+define('DB_PASSWORD', 'berretin2017');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
@@ -36,13 +36,16 @@ define('DB_CHARSET', 'utf8');
 
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
+define('WP_HOME','hermacingenieria.com.ar');
+define('WP_SITEURL','hermacingenieria.com.ar');
 
 define('MULTISITE', true);
 define('SUBDOMAIN_INSTALL', false);
-define('DOMAIN_CURRENT_SITE', 'localhost');
-define('PATH_CURRENT_SITE', '/hermac/');
+define('DOMAIN_CURRENT_SITE', 'hermacingenieria.com.ar');
+define('PATH_CURRENT_SITE', '/');
 define('SITE_ID_CURRENT_SITE', 1);
 define('BLOG_ID_CURRENT_SITE', 1);
+define('WP_ALLOW_REPAIR', true);
 
 /**#@+
  * Authentication Unique Keys and Salts.
